@@ -1,0 +1,13 @@
+# numpy
+# pandas
+# python-dotenv
+# mysql-connector-python
+# pymysql
+
+
+
+numpy
+pandas
+python-dotenv
+pyodbc
+scikit-learn
